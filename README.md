@@ -12,6 +12,6 @@
 <br>
 
 ### I am a software engineer based in Kathmandu, Nepal.
-- Languages: PHP, Python, Bash, Reactjs, React-native
+- Languages: PHP, Python, Bash, React.js, React-native
 
 ![Kamal Lama's github stats](https://github-readme-stats.vercel.app/api?username=kamal09rumba&show_icons=true&theme=gruvbox)
